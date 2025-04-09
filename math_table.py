@@ -4,7 +4,7 @@ while True:
     print(f"TABLE OF {n}")
 
     if n == 0:
-        print("The results of the table of 0 are always euqal to 0")
+        print("The results of the table of 0 are always equal to 0")
     else:
         i = 1
 
