@@ -2,11 +2,14 @@
 This Python program prints the multiplication table for a number entered by the user.
 
 ## Breakdown:
-It asks the user to input an integer:
+Firstly, it enters a ```while``` loop.
+<br>
+<br>
+Then, it asks the user to input an integer:
 ```n = int(input(...))```
 <br>
 <br>
-If the number is 0, it prints a message that the multiplication table of 0 is always 0 and exits.
+If the number is 0, it prints a message that the multiplication table of 0 is always 0.
 <br>
 <br>
 Otherwise, it uses a while loop and a for loop together to generate and print the multiplication table from 1 to 10.
